@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Maktabat Oqba bin Nafi",
+  "description": "An advanced Islamic digital library and research platform featuring an AI scholar assistant, interactive Quran reader with Tafseer, and a comprehensive collection of historical texts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
